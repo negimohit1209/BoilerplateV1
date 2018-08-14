@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "BoilerPlateV1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,6 +27,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-modal": "^3.5.1",
+    "react-router-dom": "^4.3.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
     "validator": "^10.5.0",
